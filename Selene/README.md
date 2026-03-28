@@ -1,10 +1,5 @@
 # 🌙 Selene
 
-**Project Author & Engineer:** Arshia Keshvari  
-**Role:** Independent Developer  
-**Date:** 01/02/2025  
-**License:** MIT License  
-
 Selene is an ESP32-based IoT project that visualizes the current **moon phase** using a string of **addressable LEDs (WS2812B)**. LED colors and brightness change automatically according to the moon phase and special lunar events like "Supermoon" or "Blood Moon". The system connects to Wi-Fi, fetches real-time data from an API, and provides **web-based control** for configuration and monitoring.
 
 ---
